@@ -8,23 +8,16 @@
 #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 6:30PM IST
 #### Duration 75 hours,10 weeks, 2.5 months MON-FRI
-### Playwright-TOC : **[Click Here 👈 ](https://docs.google.com/document/d/1l2MMuH3kQXiBU0GuTPg-_fjDlWBwJdM2/edit)**
+### Playwright-TOC : **[Click Here 👈 ](https://mrreddyautomation.com/playwright/)**
 
-Demo Day (Orientation)
-
+🎤 Demo Day
 Trainer Introduction
-
-Course Overview & Outcomes
-
-Toolchain Setup Overview
-
+Course Overview & Objectives
 Syllabus Walkthrough
-
-Project Introduction: E-Commerce UI Automation Framework
-
-Training Methodology & Placement Support
-
+Training Features & Expectations
+Placement Assistance
 Q&A Session
+
 
 🗓 WEEK 1: Playwright and TypeScript Fundamentals
 
@@ -239,9 +232,7 @@ Outcome:
 Concepts
 
 Data-driven testing with JSON, CSV, Excel
-
 Reading external test data dynamically
-
 Integrating Playwright with API calls
 
 Mocking network requests & intercepting APIs
