@@ -1,4 +1,3 @@
- headers 
 ![Project Screenshot](rrplaywrigh.PNG)
 # AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
