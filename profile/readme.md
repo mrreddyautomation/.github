@@ -5,8 +5,9 @@
 #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 6:30PM IST
 #### Duration 90 hours, 3 months MON-FRI
-### TOC : https://docs.google.com/document/d/1l2MMuH3kQXiBU0GuTPg-_fjDlWBwJdM2/edit
+### Playwright-TOC : **[Click Here](https://docs.google.com/document/d/1l2MMuH3kQXiBU0GuTPg-_fjDlWBwJdM2/edit)**
 
+I love supporting the **[EFF](https://eff.org)**.
 bold text
  hello **rathna**
 
