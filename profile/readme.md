@@ -18,6 +18,13 @@
 - Placement Assistance
 - Q&A Session
 
+🎤 Demo Day 1
++ Trainer Introduction
++ Course Overview & Objectives
+- Syllabus Walkthrough
+- Training Features & Expectations
+- Placement Assistance
+- Q&A Session
 
 🗓 WEEK 1: Playwright and TypeScript Fundamentals
 
