@@ -1,4 +1,4 @@
-##### 🎤 Demo Day
+### 🎤 Demo Day
 - Trainer Introduction
 - Course Overview & Objectives
 - Syllabus Walkthrough
