@@ -11,12 +11,12 @@
 ### Playwright-TOC : **[Click Here 👈 ](https://mrreddyautomation.com/playwright/)**
 
 🎤 Demo Day
-Trainer Introduction
-Course Overview & Objectives
-Syllabus Walkthrough
-Training Features & Expectations
-Placement Assistance
-Q&A Session
+- Trainer Introduction
+- Course Overview & Objectives
+- Syllabus Walkthrough
+- Training Features & Expectations
+- Placement Assistance
+- Q&A Session
 
 
 🗓 WEEK 1: Playwright and TypeScript Fundamentals
