@@ -10,13 +10,13 @@
 #### Duration 75 hours,10 weeks, 2.5 months MON-FRI
 ### Playwright-TOC : **[Click Here 👈 ](profile/content.md)**
 
-🎤 #### Demo Day
+#### Demo Day
 - Trainer Introduction
 - Course Overview & Objectives
 - Syllabus Walkthrough
 - Training Features & Expectations
 - Placement Assistance
-- Q&A Session
+- Q&A Session 
 
 🎤 Demo Day 11
 + Trainer Introduction
