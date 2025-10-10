@@ -1,5 +1,5 @@
  headers 
-![Project Screenshot](pl.jpg)
+![Project Screenshot](c:\Users\admin\Downloads\rrplaywrigh.PNG)
 # AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
 #### Launguage: English / Telugu
