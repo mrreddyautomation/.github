@@ -1,4 +1,6 @@
-![Project Screenshot](rrplaywrigh.PNG)
+<div align="center">
+  <img src="rrplaywrigh.PNG" alt="Project Screenshot">
+</div>
 # AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
 #### Launguage: English / Telugu
