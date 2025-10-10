@@ -1,5 +1,5 @@
  headers 
-##        AI Powerd Automation Testing - Playwright
+# AI Powerd Automation Testing - Playwright
 #### Launguage: English / Telugu
 #### Trainer: M R Reddy
 #### Demo: 11-OCT-2025 6:30PM IST
