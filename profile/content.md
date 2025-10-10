@@ -6,7 +6,15 @@
 - Placement Assistance
 - Q&A Session
 
-🎤 Demo Day 11
+### 🗓 Week 1
++ Trainer Introduction
++ Course Overview & Objectives
+- Syllabus Walkthrough
+- Training Features & Expectations
+- Placement Assistance
+- Q&A Session
+
+### 🗓 Week 2
 + Trainer Introduction
 + Course Overview & Objectives
 - Syllabus Walkthrough
