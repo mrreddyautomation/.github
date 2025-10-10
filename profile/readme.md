@@ -1,10 +1,10 @@
  headers 
-# AI Powerd Automation Testing - Playwright
+# AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
 #### Launguage: English / Telugu
 #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 6:30PM IST
-#### Duration 90 hours, 3 months MON-FRI
+#### Duration 75 hours,10 weeks, 2.5 months MON-FRI
 ### Playwright-TOC : **[Click Here](https://docs.google.com/document/d/1l2MMuH3kQXiBU0GuTPg-_fjDlWBwJdM2/edit)**
 
 I love supporting the **[EFF](https://eff.org)**.
