@@ -1,10 +1,10 @@
  headers 
 # AI Powerd Automation Testing - Playwright
-## Launguage: English / Telugu
-## Trainer: M R Reddy
-## Demo: 11-OCT-2025 6:30PM IST
-## Classes: 12-OCT-2025 6:30PM IST
-## Duration 90 hours, 3 months MON-FRI
+### Launguage: English / Telugu
+### Trainer: M R Reddy
+### Demo: 11-OCT-2025 6:30PM IST
+### Classes: 12-OCT-2025 6:30PM IST
+#### Duration 90 hours, 3 months MON-FRI
 CONTENT INDEX:
 
 bold text
