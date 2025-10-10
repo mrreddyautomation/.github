@@ -8,7 +8,7 @@
 #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 6:30PM IST
 #### Duration 75 hours,10 weeks, 2.5 months MON-FRI
-### Playwright-TOC : **[Click Here 👈 ](https://mrreddyautomation.com/playwright/)**
+### Playwright-TOC : **[Click Here 👈 ](content.md)**
 
 🎤 Demo Day
 - Trainer Introduction
