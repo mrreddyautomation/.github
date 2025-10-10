@@ -18,7 +18,7 @@
 - Placement Assistance
 - Q&A Session
 
-🎤 Demo Day 1
+🎤 Demo Day 11
 + Trainer Introduction
 + Course Overview & Objectives
 - Syllabus Walkthrough
