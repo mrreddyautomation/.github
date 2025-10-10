@@ -1,5 +1,5 @@
  headers 
-![Alt text](https://drive.google.com/uc?export=view&id=1cDaGayl20TnklfMomYt4em3vVkptBVBe)
+![Project Screenshot](pl.jpg)
 # AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
 #### Launguage: English / Telugu
