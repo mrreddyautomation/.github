@@ -18,3 +18,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p>
+
+<details>
+  <summary>Click for more information</summary>
+  This is more description ...
+  ...
+</details>
