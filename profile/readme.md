@@ -2,6 +2,13 @@
   <img src="rrplaywrigh.PNG" alt="Project Screenshot">
 </div>
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
+</p>
+
+
 # AI Powerd Automation Testing - Playwright - TypeScript
 #### Trainer: M R Reddy
 #### Launguage: English / Telugu

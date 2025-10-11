@@ -27,7 +27,7 @@
   - Merging vs Rebasing vs Chery picking
   - Pull Request ( PR) & Code Review
   - Forking
-### 🗓 Week 1 : Git & GitHub
+### 🗓 Week 2 : Git & GitHub
 - Git vs GitHub
 - Git installation & GitHub account creation
 - Create repositoy and clone
