@@ -8,12 +8,13 @@
 - Placement Assistance
 - Q&A Session
 
-### 🗓 Week 1 : Git & GitHub
+### 🗓 Week 1 : Git & GitHub  5 hrs
 - Git vs GitHub
+- VS Code Setup
 - Git installation & GitHub account creation
 - Create repositoy and clone
-- Working with Local Repository
-  - Working Dir, Statged Area, Local repository
+- Working with Local Repositor
+  - Working Directory, Statged Area, Local repository
   - add, commit,status,log
   - undo changes - restore,reset,revert
 - Working with Remote Repository
@@ -26,7 +27,7 @@
   - Merging vs Rebasing vs Chery picking
   - Pull Request ( PR) & Code Review
   - Forking
-### 🗓 Week 1 : Git & GitHub
+### 🗓 Week 1 : Git & GitHub 5hrs
 - Git vs GitHub
 - Git installation & GitHub account creation
 - Create repositoy and clone
