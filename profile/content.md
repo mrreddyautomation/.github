@@ -8,7 +8,7 @@
 - Placement Assistance
 - Q&A Session
 
-### 🗓 Week 1 : Git & GitHub  -  5 hrs
+### 🗓 Week 1 : Git & GitHub
 - Git vs GitHub
 - VS Code Setup
 - Git installation & GitHub account creation
@@ -27,7 +27,7 @@
   - Merging vs Rebasing vs Chery picking
   - Pull Request ( PR) & Code Review
   - Forking
-### 🗓 Week 1 : Git & GitHub  -  5 hrs
+### 🗓 Week 1 : Git & GitHub
 - Git vs GitHub
 - Git installation & GitHub account creation
 - Create repositoy and clone
