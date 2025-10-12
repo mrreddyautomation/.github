@@ -28,7 +28,7 @@
   - Pull Request ( PR) & Code Review
   - Forking
 - Outcome:
-### ✅ Code source-controlled in GitHub
+#### ✅ Code source-controlled in GitHub
 
 ### 🗓 Week 2 : TypeScript
 - Git vs GitHub
