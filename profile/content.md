@@ -28,7 +28,7 @@
   - Pull Request ( PR) & Code Review
   - Forking
 - Outcome:
-#### ✅ Solid understanding of TypeScript for test automation
+#### ✅ Able to write programming
 
 ### 🗓 Week 2 : TypeScript
 - TypeScript Installation
@@ -41,3 +41,5 @@
 - Polymorphism,interface
 - Map,Set
 - Outcome:
+#### ✅ Solid understanding of TypeScript for test automation
+
