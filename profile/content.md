@@ -1,10 +1,10 @@
 
-➡️ GitHub
-➡️ TypeScript
-➡️ Playwright
-➡️ Framework - POM
-➡️ Docker
-➡️ Jenkins
+➡️ GitHub  
+➡️ TypeScript  
+➡️ Playwright  
+➡️ Framework - POM  
+➡️ Docker  
+➡️ Jenkins  
 
 
 ### 🎤 Demo Day : Course Introduction
