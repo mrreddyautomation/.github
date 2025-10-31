@@ -50,9 +50,7 @@
 - Encapsulation,Abstraction,inheritance,
 - Polymorphism,interface
 - Map,Set
-- Outcome:
-#### ✅ Get Repquired Programming skiils  for playwright test automation
-
+- Outcome:#### ✅ Get Repquired Programming skiils  for playwright test automation
 ### 🗓 Week 3 : Playwright
 - Playwright Installation
 - Playwright Project Structure
@@ -69,7 +67,6 @@
 - Trace Viewer
 - Outcome:
 #### ✅ Able to validate common web application eleleents
-
 ### 🗓 Week 4 : Playwright
 - Hadnling of Alerts
 - Handling of Tabbed windows/ New windows
@@ -82,7 +79,6 @@
 - Execute only Failed tests
 - Scrolling
 #### ✅ Able to validate  complex scnearios elements and windows
-
 ### 🗓 Week 5 : Playwright
 - Capture screenshot
 - Capture video for test execution
