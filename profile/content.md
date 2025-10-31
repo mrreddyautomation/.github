@@ -14,6 +14,7 @@
 - Training Features
 - Introdcution to automation testing
 - Intoduction to Plawyright
+- Playwright vs Selenium
 - Placement Assistance
 - Q&A Session
 
@@ -37,7 +38,7 @@
   - Pull Request ( PR) & Code Review
   - Forking
 - Outcome:
-#### ✅ Able to write programming
+#### ✅ Host code on GitHub with  main and working branches(collbration)
 
 ### 🗓 Week 2 : TypeScript
 - TypeScript Installation
@@ -50,5 +51,41 @@
 - Polymorphism,interface
 - Map,Set
 - Outcome:
-#### ✅ Solid understanding of TypeScript for test automation
+#### ✅ Get Repquired Programming skiils  for playwright test automation
+
+### 🗓 Week 3 : Playwright
+- Playwright Installation
+- Playwright Project Structure
+- Playwright test sytantax 
+- Develop Basic script
+- Create Break poings and execute script
+- Execute test Through CLI
+- Execute test in healess and headed mode
+- Execute requqired test and all tests
+- Debugging tests
+- Annotations - skip,test,only
+- Locators
+- Element validations - TextField,Button,Link,Image,checbox,radiobutton frames, tables, lists etc
+- Trace Viewer
+- Outcome:
+#### ✅ Able to validate common web application eleleents
+
+### 🗓 Week 4 : Playwright
+- Hadnling of Alerts
+- Handling of Tabbed windows/ New windows
+- Keyboard actions,Mouse Actions
+- Annotations
+- Assertions
+- Tags
+- Timeouts
+- Parallel executeion
+- Execute only Failed tests
+- Scrolling
+#### ✅ Able to validate  complex scnearios elements and windows
+
+### 🗓 Week 5 : Playwright
+- Capture screenshot
+- Capture video for test execution
+
+
 
