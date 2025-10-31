@@ -19,7 +19,7 @@
   - undo changes - restore,reset,revert
 - Working with Remote Repository
   - pull,push
-- Braching 
+- Branching 
   - creating master and feature branches
   - Swithing between branches & Stashing
   - Merging & Resovle confflicts
