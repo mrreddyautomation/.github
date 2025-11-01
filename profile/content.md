@@ -84,7 +84,7 @@
 - Project Structure - POM
 - Automate Ecommarce Project
 -  Creation of Smoke,Sanity and  Regression suites
-- Execute suites requried suites
-- Execute suites in rquired environments
+- Execute  Targeted suites
+- Execute  suites in Targeted environments
 ### 🗓 Week 7 : DevOps-
-### 🗓 Week 7 : DevOps-
+
