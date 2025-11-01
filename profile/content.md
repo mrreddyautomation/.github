@@ -77,14 +77,14 @@
 - Working with different Environments
 - Reading data fron JSON file
 - Creating Dynamic testData using Faker
-- Allure Report 
-
+- Allure Report
 ### 🗓 Week 6 : Framework - POM
 - Framework architecture
 - Project Structure - POM
 - Automate Ecommarce Project
--  Creation of Smoke,Sanity and  Regression suites
+- Fixtures, Hooks
+- Creation of Smoke,Sanity and  Regression suites
 - Execute  Targeted suites
 - Execute  suites in Targeted environments
-### 🗓 Week 7 : DevOps-
+### 🗓 Week 7 : DevOps - Docker
 
