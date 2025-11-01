@@ -14,7 +14,9 @@
 
 #### Website: http://www.mrreddyautomation.com
 
+### AWS Account Creation: 
 
+https://portal.aws.amazon.com/billing/signup
 <!-- 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
