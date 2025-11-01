@@ -2,10 +2,10 @@
 ➡️ GitHub  
 ➡️ TypeScript  
 ➡️ Playwright  
-➡️ Framework - POM 
-➡️ Linux 
-➡️ Docker  
-➡️ Jenkins  
+➡️ Framework - POM   
+➡️ Linux   
+➡️ Docker    
+➡️ Jenkins    
 
 ### Duration : 10 Weeks (75 hours)
 
