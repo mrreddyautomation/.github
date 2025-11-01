@@ -2,10 +2,12 @@
 ➡️ GitHub  
 ➡️ TypeScript  
 ➡️ Playwright  
-➡️ Framework - POM  
+➡️ Framework - POM 
+➡️ Linux 
 ➡️ Docker  
 ➡️ Jenkins  
 
+### Duration : 10 Weeks (75 hours)
 
 ### 🎤 Demo Day : Course Introduction
 - Trainer Introduction
@@ -86,6 +88,42 @@
 - Creation of Smoke,Sanity and  Regression suites
 - Execute  Targeted suites
 - Execute  suites in Targeted environments
-### 🗓 Week 7 : DevOps - Docker
--
+### 🗓 Week 7 : Linux & Docker (DevOps)
+-  AWS Account setup
+-  Create instances in AWS cloud
+-  Execute scripts in  tests environment
+-  Introduction to Docker
+-  Docker Arachtecture(Life cycle)
+-  Components of Docker
+-  Dockerizing Playwright Project
+### 🗓 Week 8 : Linux & Docker (DevOps)
+-  Create instances in AWS cloud
+-  Execute tests in  Linux environment
+-  Introduction to Docker
+-  Docker Arachtecture(Life cycle)
+-  Components of Docker
+-  Dockerizing Playwright Automation Project
+-  Images,containers,DockerFile, DockerCompose,Volumes
+-  Execute tests in  Containers
+### 🗓 Week 9 : Jenkins & Github Actions (DevOps)
+-  Create instances in AWS cloud
+-  Execute tests in  Linux environment
+-  Introduction to Docker
+-  Docker Arachtecture(Life cycle)
+-  Components of Docker
+-  Dockerizing Playwright Automation Project
+-  Images,containers,DockerFile, DockerCompose,Volumes
+-  Execute tests in  Containers
+### 🗓 Week 10 : Playwright API
+-  Create instances in AWS cloud
+-  Execute tests in  Linux environment
+-  Introduction to Docker
+-  Docker Arachtecture(Life cycle)
+-  Components of Docker
+-  Dockerizing Playwright Automation Project
+-  Images,containers,DockerFile, DockerCompose,Volumes
+-  Execute tests in  Containers
+
+
+
 
