@@ -12,6 +12,7 @@
 #### Playwright-TOC : **[Click Here 👈 ](profile/content.md)**
 
 #### Website: http://www.mrreddyautomation.com
+#### Website https://mrreddyautomation.com/playwright/
 
 <!-- 
 <p align="center">
