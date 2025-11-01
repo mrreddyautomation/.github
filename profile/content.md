@@ -106,14 +106,11 @@
 -  Images,containers,DockerFile, DockerCompose,Volumes
 -  Execute tests in  Containers
 ### 🗓 Week 9 : Jenkins & Github Actions (DevOps)
--  Create instances in AWS cloud
--  Execute tests in  Linux environment
--  Introduction to Docker
--  Docker Arachtecture(Life cycle)
--  Components of Docker
--  Dockerizing Playwright Automation Project
--  Images,containers,DockerFile, DockerCompose,Volumes
--  Execute tests in  Containers
+- About Jenkin
+- Create new job
+- Execute job
+- Scheduling job
+- Email - Job status
 ### 🗓 Week 10 : Playwright API
 -  Create instances in AWS cloud
 -  Execute tests in  Linux environment
