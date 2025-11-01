@@ -87,3 +87,4 @@
 - Execute suites requried suites
 - Execute suites in rquired environments
 ### 🗓 Week 7 : DevOps-
+### 🗓 Week 7 : DevOps-
