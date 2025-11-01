@@ -17,7 +17,6 @@
 - Playwright vs Selenium
 - Placement Assistance
 - Q&A Session
-
 ### 🗓 Week 1 : Git & GitHub
 - Git vs GitHub
 - VS Code Setup
@@ -37,9 +36,6 @@
   - Merging vs Rebasing vs Chery picking
   - Pull Request ( PR) & Code Review
   - Forking
-- Outcome:
-#### ✅ Host code on GitHub with  main and working branches(collbration)
-
 ### 🗓 Week 2 : TypeScript
 - TypeScript Installation
 - Variables, Data Types,Types of variables
@@ -50,7 +46,6 @@
 - Encapsulation,Abstraction,inheritance,
 - Polymorphism,interface
 - Map,Set
-- Outcome:#### ✅ Get Repquired Programming skiils  for playwright test automation
 ### 🗓 Week 3 : Playwright
 - Playwright Installation
 - Playwright Project Structure
@@ -64,9 +59,6 @@
 - Annotations - skip,test,only
 - Locators
 - Element validations - TextField,Button,Link,Image,checbox,radiobutton frames, tables, lists etc
-- Trace Viewer
-- Outcome:
-#### ✅ Able to validate common web application eleleents
 ### 🗓 Week 4 : Playwright
 - Hadnling of Alerts
 - Handling of Tabbed windows/ New windows
@@ -78,10 +70,20 @@
 - Parallel executeion
 - Execute only Failed tests
 - Scrolling
-#### ✅ Able to validate  complex scnearios elements and windows
 ### 🗓 Week 5 : Playwright
 - Capture screenshot
 - Capture video for test execution
+- Trace Viewer
+- Working with different Environments
+- Reading data fron JSON file
+- Creating Dynamic testData using Faker
+- Allure Report 
 
-
-
+### 🗓 Week 6 : Framework - POM
+- Framework architecture
+- Project Structure - POM
+- Automate Ecommarce Project
+-  Creation of Smoke,Sanity and  Regression suites
+- Execute suites requried suites
+- Execute suites in rquired environments
+### 🗓 Week 7 : DevOps-
