@@ -7,7 +7,7 @@
 ➡️ Docker    
 ➡️ Jenkins    
 
-### Duration : 10 Weeks (75 hours)
+### ✅ Duration : 10 Weeks (75 hours)
 
 ### 🎤 Demo Day : Course Introduction
 - Trainer Introduction
