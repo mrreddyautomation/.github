@@ -9,8 +9,8 @@
 <!-- #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 07:15-08:45AM IST -->
 #### Duration 75 hours,10 weeks, 2.5 months MON-FRI
-#### Playwright Content : **[Click Here 👈 ](profile/content.md)**
 #### Playwright Content :  https://mrreddyautomation.com/playwright/  👈
+#### Playwright Sessions : https://mrreddyautomation.com/playwright-blog/  👈
 
 #### Website: http://www.mrreddyautomation.com
 
