@@ -12,7 +12,11 @@
 #### Playwright Content :  https://mrreddyautomation.com/playwright/  👈
 #### Playwright Sessions : https://mrreddyautomation.com/playwright-blog/  👈
 
-#### Website: http://www.mrreddyautomation.com
+### Practice Playground:
+https://mrreddyautomation.com/playground/
+
+### Application:
+ https://mrreddyautomation.com/mrmart/
 
 ### AWS Account Creation: 
 
