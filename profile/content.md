@@ -58,7 +58,6 @@
 - Execute test in healess and headed mode
 - Execute requqired test and all tests
 - Debugging tests
-- Annotations - skip,test,only
 - Locators
 - Element validations - TextField,Button,Link,Image,checbox,radiobutton frames, tables, lists etc
 ### 🗓 Week 4 : Playwright
