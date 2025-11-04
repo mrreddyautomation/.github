@@ -8,7 +8,7 @@
 #### Launguage: English / Telugu
 <!-- #### Demo: 11-OCT-2025 6:30PM IST
 #### Classes: 12-OCT-2025 07:15-08:45AM IST -->
-#### Duration 75 hours,10 weeks, 2.5 months MON-FRI
+#### Duration : hours: 75, Weeks: 10, months: 2.5 [MON-FRI]
 #### 💡 Playwright Content :  https://mrreddyautomation.com/playwright/  
 #### 💡 Playwright Sessions : https://mrreddyautomation.com/playwright-blog/  
 
