@@ -19,9 +19,11 @@
 
 #### 🚀 AWS Account Creation: https://portal.aws.amazon.com/billing/signup
 
-### 📝 Contact Us
+#### 🌐 LinkedIn: 
+
+### 📧 Contact Us
        info@mrreddyautomation.com
-#### Linked in: 
+
 
 <!-- 
 <p align="center">
@@ -29,7 +31,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
 </p> -->
 
-<details>
+<!-- <details>
   <summary>Click for more information</summary>
-  This is more description 
+  This is more description  -->
 </details>
