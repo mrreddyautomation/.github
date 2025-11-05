@@ -10,8 +10,8 @@
 #### Classes: 12-OCT-2025 07:15-08:45AM IST -->
 #### Duration : Hours: 75, Weeks: 10, Months: 2.5 [MON-FRI]
 
-#### 💡 Playwright Content :  https://mrreddyautomation.com/playwright/  
-#### 💡 Playwright Sessions : https://mrreddyautomation.com/playwright-blog/  
+#### 💡 Playwright Content:  https://mrreddyautomation.com/playwright/  
+#### 💡 Playwright Sessions: https://mrreddyautomation.com/playwright-blog/  
 
 #### 🎯  Practice Playground: https://mrreddyautomation.com/playground/
 
@@ -21,10 +21,10 @@
 
 #### 🌐 LinkedIn: 
 
-### 📧 Contact Us
+### 📧 Message:
        info@mrreddyautomation.com
 
-
+#### 📞 Call Me:
 <!-- 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
