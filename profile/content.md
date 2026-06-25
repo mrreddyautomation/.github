@@ -39,15 +39,20 @@
   - Pull Request ( PR) & Code Review
   - Forking
 ### 🗓 Week 2 : TypeScript
-- TypeScript Installation
-- Variables, Data Types,Types of variables
+- VSCode Setup
+- Type Scrpt Setup
+- Data Types
+- Type Script Variable Types
 - keywords var,let,const
 - operators,conditional statements,loops
 - Arryas,Strings,Functions
-- Class,Object,Method,Static,Constructor
+- Class ands Object
+- Class Varibale Types
+- Method Types
 - Encapsulation,Abstraction,inheritance,
 - Polymorphism,interface
-- Map,Set
+- Collections
+- Modules
 ### 🗓 Week 3 : Playwright
 - Playwright Installation
 - Playwright Project Structure
