@@ -29,22 +29,20 @@
 <p></p>
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="center">Automation Tools</h3>
-<p align="center">
-  <!-- Automation Tools -->
+<h3 align="center">Automation Tools</h3>:
   <img src="https://img.shields.io/badge/Playwright-%2343B02A3.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-</p>
 
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<h3 align="center">💻 Languages</h3>: 
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%233776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-%233776AB.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-%233776AB.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-🚀 DevOps & Tools</h3>: <img src="https://img.shields.io/badge/Linux-%23D24939.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+🚀 DevOps & Tools</h3>: 
+<img src="https://img.shields.io/badge/Linux-%23D24939.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-%23D24939.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%23D24939.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
