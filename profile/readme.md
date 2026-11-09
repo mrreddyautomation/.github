@@ -30,7 +30,7 @@
 
 <h3 align="center">🎭 Automation Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
