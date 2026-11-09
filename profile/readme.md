@@ -60,7 +60,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Automation Tools-%000000.svg?style=for-the-badge&logoColor=white" alt="Automation Tools" />:
+  <img src="https://img.shields.io/badge/Automation%20Tools-%000000.svg?style=for-the-badge&logoColor=white" alt="Automation Tools" />:
   
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   
