@@ -59,7 +59,7 @@
 <p></p>
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Automation%20Tools-%232EAD33.svg?style=for-the-badge&logoColor=white" alt="Automation Tools" />:
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
