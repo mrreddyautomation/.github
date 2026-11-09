@@ -27,7 +27,8 @@
 #### 📞 Call Me:
 
 <p></p>
-
+<h2 align="left">🛠️ Tech Stack</h2>
+<hr/>
 <h3 align="center">Automation Tools</h3>
 <p align="center">
   <!-- Automation Tools -->
