@@ -29,7 +29,7 @@
 <p></p>
 <h2 align="left">🛠️ Tech Stack</h2>
 
-Automation Tools:
+Automation Tools: <img src="https://img.shields.io/badge/Playwright-%2343B02A3.svg?style=for-the-badge&logo=playwright&logoColor=white">
   <img src="https://img.shields.io/badge/Playwright-%2343B02A3.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   
