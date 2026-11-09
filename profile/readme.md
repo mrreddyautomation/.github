@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="rrplaywrigh.PNG" alt="Project Screenshot">
+  <img src="rrplaywrigh.png" alt="Project Screenshot">
 </div>
 
 
