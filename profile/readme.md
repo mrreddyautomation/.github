@@ -29,16 +29,14 @@
 <p></p>
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<h3 align="center">Automation Tools</h3>:
+Automation Tools:
   <img src="https://img.shields.io/badge/Playwright-%2343B02A3.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<h3 align="center">💻 Languages</h3>: 
+💻 Languages: 
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%233776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-%233776AB.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-%233776AB.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-
 🚀 DevOps & Tools: 
 <img src="https://img.shields.io/badge/Linux-%23D24939.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-%23D24939.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
