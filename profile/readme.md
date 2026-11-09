@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/TypeScript-%233776AB.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<h3 align="center">🚀 DevOps & Tools</h3>: <img src="https://img.shields.io/badge/Linux-%23D24939.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+🚀 DevOps & Tools</h3>: <img src="https://img.shields.io/badge/Linux-%23D24939.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-%23D24939.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%23D24939.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
