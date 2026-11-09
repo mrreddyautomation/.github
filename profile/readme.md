@@ -28,7 +28,7 @@
 
 
 
-<h3 align="center">🎭 Automation Tools</h3>
+<h3 align="center">Automation Tools</h3>
 <p align="center">
   <!-- Automation Tools -->
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
