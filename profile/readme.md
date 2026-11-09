@@ -28,7 +28,6 @@
 
 
 <h2 align="left">🛠️ Tech Stack</h2>
-<hr/>
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
