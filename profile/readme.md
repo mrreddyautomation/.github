@@ -30,7 +30,7 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Automation%20Tools-6C3483?style=for-the-badge&logoColor=white" alt="Automation Tools" /><b>-----></b>
+  <img src="https://img.shields.io/badge/Automation%20Tools-6C3483?style=for-the-badge&logoColor=white" alt="Automation Tools" /><b>  👉  </b>
   
   <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   
@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Languages-6C3483?style=for-the-badge&logoColor=white" alt="Languages" /><b>--------------></b>
+  <img src="https://img.shields.io/badge/Languages-6C3483?style=for-the-badge&logoColor=white" alt="Languages" /><b>  👉  </b>
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%233776AB.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-%233776AB.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -46,7 +46,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-6C3483?style=for-the-badge&logoColor=white" alt="DevOps & Tools" /><b>--------></b>
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-6C3483?style=for-the-badge&logoColor=white" alt="DevOps & Tools" />  👉  </b>
   <img src="https://img.shields.io/badge/Linux-F47700?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-F47700?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-F47700?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
